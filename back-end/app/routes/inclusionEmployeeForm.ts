@@ -1,11 +1,11 @@
 import {Application} from "express"
+import bodyParser from 'body-parser'
 
 
 const Crud = require("../../models/all")
 
 const multer = require("multer")
 
-import bodyParser from 'body-parser'
 const path = require('path')
 const express = require('express')
 const app = express()

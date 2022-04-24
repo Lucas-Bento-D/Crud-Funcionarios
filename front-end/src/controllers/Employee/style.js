@@ -27,6 +27,7 @@ export const UserInfoPersonal = styled.div`
 `
 export const UserInfoOrg = styled.div`
     display: flex;
+    justify-content: space-between;
     div{
         margin: 10px;
         span{
@@ -37,6 +38,7 @@ export const UserInfoOrg = styled.div`
 `
 export const UserInfoMoreInformations = styled.div`
     display: flex;
+    justify-content: space-between;
     div{
         margin: 10px;
         span{

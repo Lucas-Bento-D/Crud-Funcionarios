@@ -8,7 +8,7 @@ function Header(){
             <HeaderBlockContent>
                 <HeaderBlock>
                     <h2>
-                        <Link to={{pathname:`/`}}>Adicione um Colaborador</Link>
+                        <Link to={{pathname:`/`}}>Crud Funcionarios</Link>
                     </h2>
                 </HeaderBlock>
                 <HeaderBlock>
